@@ -1,0 +1,51 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por UF de notificação e Sexo
+Período:2001-2019
+"UF de notificação";"Ignorado";"Masculino";"Feminino";"Total"
+"11 Rondônia";-;8500;4017;12517
+"12 Acre";-;4839;2705;7544
+"13 Amazonas";2;33394;21431;54827
+"14 Roraima";-;2231;1157;3388
+"15 Pará";18;49219;29008;78245
+"16 Amapá";-;3102;1891;4993
+"17 Tocantins";-;2931;1489;4420
+"21 Maranhão";6;30682;18933;49621
+"22 Piauí";4;13695;7701;21400
+"23 Ceará";24;52040;30027;82091
+"24 Rio Grande do Norte";-;16252;7618;23870
+"25 Paraíba";3;17420;8504;25927
+"26 Pernambuco";23;69903;33113;103039
+"27 Alagoas";6;15996;9446;25448
+"28 Sergipe";1;9521;4254;13776
+"29 Bahia";55;80598;44967;125620
+"31 Minas Gerais";-;60413;28008;88421
+"32 Espírito Santo";4;18871;8661;27536
+"33 Rio de Janeiro";91;187414;90774;278279
+"35 São Paulo";14;260775;109760;370549
+"41 Paraná";24;37099;17769;54892
+"42 Santa Catarina";11;26466;12598;39075
+"43 Rio Grande do Sul";17;78659;37092;115768
+"50 Mato Grosso do Sul";12;14552;5658;20222
+"51 Mato Grosso";4;17814;8830;26648
+"52 Goiás";1;14300;6104;20405
+"53 Distrito Federal";-;6520;3534;10054
+"00 Ignorado/exterior";-;1;-;1
+"Total";320;1133207;555049;1688576
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de diagnóstico dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, e na coluna a variável “Ano do diagnóstico”; em “Períodos Disponíveis” assinale o ano inicial da série e todos os posteriores até o ano atual (para
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável “Tipo de entrada”: caso novo, não sabe e pós óbito.
+ A variável “Beneficiário de programa de transferência de renda do governo” não contém dados do Estado de São Paulo (SP). Quanto a variável “Terapia antirretroviral durante o tratamento da TB”, os dados do estado de SP foram inseridos a partir do seg
+ Não é possível calcular indicadores relacionados aos contatos de tuberculose.
+ Em 2014, foram incluídas as seguintes variáveis no Sinan-Net (Tuberculose): populações especiais (população privada de liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas ilícitas
+ A variável “institucionalizado” foi descontinuada em 2015. Portanto, para análise referente à população privada de liberdade após esse período, utilizar a variável “PPL” (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan-Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2016 estão finalizados.
+ Dados de 2017 a 2020 atualizados em 02/2021, sujeitos à revisão.
+ Dados de 2020 referentes ao estado do Espírito Santo são oriundos do Sistema de Informação e-SUS VS, em uso pelo estado desde janeiro de 2020. Variáveis de acompanhamento e encerramento são indisponíveis nesse sistema.
+ Dados disponibilizados no TABNET em 04/2021, após homologação da Coordenação Geral de Vigilância das Doenças de Transmissão Respiratória de Condições Crônicas/DCCI/SVS.
+ 
