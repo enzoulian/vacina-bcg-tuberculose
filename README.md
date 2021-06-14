@@ -1,6 +1,8 @@
 ![bcg](/vacina_bcg2.png)
 
-Análise dos dados de tuberculose fornecidos pelo governo brasileiro. Este projeto faz parte do Bootcamp de Data Science Aplicada da Alura, referente ao Módulo 2
+Análise dos dados de tuberculose fornecidos pelo governo brasileiro. Este projeto faz parte do Bootcamp de Data Science Aplicada da Alura, referente ao Módulo 2.
+
+[Link do Collab](https://colab.research.google.com/drive/1CMgsApubIlmbrXDT-cYSOckqST88-IJe?usp=sharing)
 
 ## 🤿 Escopo do Projeto
 ---
